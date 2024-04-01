@@ -9,7 +9,7 @@
   },
   {
     "name": "Birthday Meal",
-    "url": "https://www.birthdaymeal.tk/",
+    "url": "https://birthdaymeal.tk/",
     "status": "[![Netlify Status](https://api.netlify.com/api/v1/badges/622cfbf8-73f7-40cc-8834-89787909f028/deploy-status)](https://app.netlify.com/sites/birthdaymeal/deploys)",
     "rating": 2,
     "host": "Netlify",
@@ -57,7 +57,7 @@
   },
   {
     "name": "Cuntfuckers",
-    "url": "https://www.cuntfuckers.cf/",
+    "url": "https://www.cuntfuckers.netlify.app/",
     "status": "[![Netlify Status](https://api.netlify.com/api/v1/badges/15e9f814-c253-4e4a-82f9-b1c3e2505aa3/deploy-status)](https://app.netlify.com/sites/cuntfuckers/deploys)",
     "rating": 3,
     "host": "Netlify",
@@ -69,7 +69,7 @@
     "status": "[![Netlify Status](https://api.netlify.com/api/v1/badges/3e8b41a9-b815-44c5-b5db-0f925c9ce06d/deploy-status)](https://app.netlify.com/sites/cssgeek/deploys)",
     "rating": 4,
     "host": "Netlify",
-    "about": "Small local site grew into something much big. Dumping ground for CSS info."
+    "about": "Small local site that grew into something much bigger. Now a dumping ground for things CSS."
   },
   {
     "name": "CSS Revolution",
@@ -89,7 +89,7 @@
   },
   {
     "name": "Cyamodus",
-    "url": "https://www.cyamodus.netlify.app/",
+    "url": "https://cyamodus.netlify.app/",
     "status": "[![Netlify Status](https://api.netlify.com/api/v1/badges/b650c07a-f362-44bc-a8e3-547d72700751/deploy-status)](https://app.netlify.com/sites/cyamodus/deploys)",
     "rating": 3,
     "host": "Netlify",
@@ -120,13 +120,13 @@
   },
   {
     "name": "Faunacate",
-    "url": "https://xixianykus.gitlab.io/empty/",
+    "url": "https://faunacate.vercel.app/",
     "rating": 4,
     "host": "Vercel",
-    "about": "Big site with lots of imagry and some useful stuff too."
+    "about": "Big site with lots of imagery, experimentation and some useful stuff too."
   },
   {
-    "name": "Garfish &starf;",
+    "name": "Garfish",
     "url": "https://www.garfish-1.netlify.app/",
     "status": "[![Netlify Status](https://api.netlify.com/api/v1/badges/a8b7284d-8a99-4b4b-ad6d-49caaa459434/deploy-status)](https://app.netlify.com/sites/garfish-1/deploys)",
     "rating": 2,
@@ -135,14 +135,15 @@
   },
   {
     "name": "GitQuest",
-    "url": "https://gitquest.gq",
+    "url": "https://gitquest.netlify.app",
     "status": "[![Netlify Status](https://api.netlify.com/api/v1/badges/a145da05-e41b-4201-a3d0-09a5c5e16484/deploy-status)](https://app.netlify.com/sites/gitquest/deploys)",
     "rating": 4,
     "host": "Netlify",
-    "about": "My dumping ground for all things git."
+    "about": "A site for all things git and other CLI utilities."
   },
   {
-    "name": "Graphic Novel Reading Room",
+    "name": "GNRR",
+    "fullName": "Graphic Novel Reading Room",
     "url": "https://graphicnovelreadingroom.com/",
     "status": "[![Netlify Status](https://api.netlify.com/api/v1/badges/daf56319-4b7d-458e-905b-61b45f3275c2/deploy-status)](https://app.netlify.com/sites/gnrr/deploys)",
     "rating": 4,
@@ -151,9 +152,9 @@
   },
   {
     "name": "Hugo 120",
-    "url": "https://graphicnovelreadingroom.com/",
+    "url": "https://hugo120.netlify.app/",
     "status": "",
-    "rating": 2,
+    "rating": 3,
     "host": "Netlify",
     "about": "A site to experiment with Decap CMS that is growing in other directions, as they often do."
   },
@@ -162,14 +163,7 @@
     "url": "https://js-blog.pages.dev/",
     "rating": 5,
     "host": "Cloudflare",
-    "about": "My JS tutorials and experiments."
-  },
-  {
-    "name": "Sport Climbs JS Notes",
-    "url": "https://sportsclimbs.github.io/js-notes/",
-    "rating": 2,
-    "host": "??",
-    "about": "Why does this still exist?"
+    "about": "My JS tutorials and experiments that have been taking place for some time now."
   },
   {
     "name": "Learn Flexbox",
@@ -185,7 +179,7 @@
     "status": "[![Netlify Status](https://api.netlify.com/api/v1/badges/a39662b2-7ea7-4e49-8fa1-7040a10e740f/deploy-status)](https://app.netlify.com/sites/learninghugo/deploys)",
     "rating": 4,
     "host": "Netlify",
-    "about": "Dumping ground for all things Hugo static site generator."
+    "about": "How to use Hugo static site generator."
   },
   {
     "name": "Massage-1",
@@ -232,7 +226,7 @@
     "status": "[![Netlify Status](https://api.netlify.com/api/v1/badges/4c790518-f41a-48bb-b286-16cb5a531f04/deploy-status)](https://app.netlify.com/sites/sfunctions/deploys)",
     "rating": 1,
     "host": "Netlify",
-    "about": "brief experiment into Netlify's serveless functions. Needs expanding."
+    "about": "brief experiment into Netlify's serveless functions. Needs expanding or deleting."
   },
   {
     "name": "Shefweb",
@@ -247,7 +241,7 @@
     "url": "https://spooniekids.co.uk/",
     "rating": 1,
     "host": "Cloudflare",
-    "about": "Awaiting instructions."
+    "about": "WIP."
   },
   {
     "name": "Sport Climbs",
@@ -286,6 +280,6 @@
     "status": "[![Netlify Status](https://api.netlify.com/api/v1/badges/cac35247-9d9f-44c4-aeea-9e8848aee5e9/deploy-status)](https://app.netlify.com/sites/the-periodic-table/deploys)",
     "rating": 3,
     "host": "Netlify",
-    "about": "Another old site that could do with some love."
+    "about": "Another old site that had some recent work done on but still needs more."
   }
 ]
