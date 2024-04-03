@@ -49,7 +49,7 @@
   },
   {
     "name": "Craig Foden",
-    "url": "https://www.craigfoden.netlify.app/",
+    "url": "https://craigfoden.netlify.app/",
     "status": "[![Netlify Status](https://api.netlify.com/api/v1/badges/5473e698-5459-48a1-a94e-d899cdc9a672/deploy-status)](https://app.netlify.com/sites/craigfoden/deploys)",
     "rating": 4,
     "host": "Netlify",
@@ -57,7 +57,7 @@
   },
   {
     "name": "Cuntfuckers",
-    "url": "https://www.cuntfuckers.netlify.app/",
+    "url": "https://cuntfuckers.netlify.app/",
     "status": "[![Netlify Status](https://api.netlify.com/api/v1/badges/15e9f814-c253-4e4a-82f9-b1c3e2505aa3/deploy-status)](https://app.netlify.com/sites/cuntfuckers/deploys)",
     "rating": 3,
     "host": "Netlify",
@@ -127,7 +127,7 @@
   },
   {
     "name": "Garfish",
-    "url": "https://www.garfish-1.netlify.app/",
+    "url": "https://garfish-1.netlify.app/",
     "status": "[![Netlify Status](https://api.netlify.com/api/v1/badges/a8b7284d-8a99-4b4b-ad6d-49caaa459434/deploy-status)](https://app.netlify.com/sites/garfish-1/deploys)",
     "rating": 2,
     "host": "Netlify",
@@ -206,7 +206,7 @@
   },
   {
     "name": "Moon Landings",
-    "url": "https://www.moonlandings.netlify.app/",
+    "url": "https://moonlandings.netlify.app/",
     "status": "[![Netlify Status](https://api.netlify.com/api/v1/badges/12edc556-4182-495a-a535-9dc56023a32b/deploy-status)](https://app.netlify.com/sites/moonlandings/deploys)",
     "rating": 4,
     "host": "Netlify",
