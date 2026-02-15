@@ -166,6 +166,13 @@
     "about": "My JS tutorials and experiments that have been taking place for some time now."
   },
   {
+    "name": "js.Build",
+    "url": "https://jsbuild-fcec0d.gitlab.io/",
+    "rating": 3,
+    "host": "GitLab",
+    "about": "Site for experimenting with Hugo's js.Build bundler."
+  },
+  {
     "name": "Learn Flexbox",
     "url": "https://learnflexbox.netlify.app/",
     "status": "[![Netlify Status](https://api.netlify.com/api/v1/badges/66211786-ee9f-41b8-9a45-cb72d654ced6/deploy-status)](https://app.netlify.com/sites/learnflexbox/deploys)",
@@ -281,5 +288,12 @@
     "rating": 3,
     "host": "Netlify",
     "about": "Another old site that had some recent work done on but still needs more."
+  },
+  {
+    "name": "YAMLSITE",
+    "url": "https://yamlsite-b4f143.gitlab.io/",
+    "rating": 3,
+    "host": "GitLab",
+    "about": "Started off rough but blossomed with lots of stuff and images now inc. galleries."
   }
 ]

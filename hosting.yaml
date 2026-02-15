@@ -1,0 +1,30 @@
+# Where to host backend services
+
+- name: GitHub
+  how: upload a file and then grab the link to the RAW file.  
+  good: simple, free, version control you probably already have an account
+  bad: no way to make private
+
+- name: JSONbin
+  url: https://jsonbin.io
+  good: 
+    - you can make private with a key
+    - good looking documentation
+    - CRUD API
+  limits: 
+    - 10k requests per month
+    - 100k max file size
+
+- name: my JSON online
+  url: https://myjson.online
+  good:
+    - REST API
+  bad:
+    - Only 1k requests per month
+- name: MyJSON
+  url: https://myjson.com
+  good:
+    - Simple
+    - Free? Looks like no paid tier.
+  bad:
+    - Too simple. No CRUD
