@@ -1,0 +1,431 @@
+# Lists of links to appear on the index
+
+# Inspiration
+# Resource lists
+# Miscellaneous resources
+# Icon Libraries
+# Imagery
+# Colour tools
+# Other CSS generators
+# CSS animation
+# Learn
+# Website examples
+# Marketing
+# Templates & themes
+# JS Libraries
+
+- section: 
+  title: inspiration
+  list:
+  - name: dribbble
+    url: https://dribbble.com/shots/popular/web-design
+  - name: Lapa Ninja
+    url: https://lapa.ninja
+  - name: Behance
+    url: https://www.behance.net/search/projects?field=web+design
+  - name: Landing Folio
+    url: https://www.landingfolio.com/
+    about: Great selection of sites and lots of categories too.
+
+- section: 
+  title: resources lists
+  list:
+  - name: Smashing list of top tools
+    url: https://www.smashingmagazine.com/2023/01/top-frontend-tools-2022/
+    about: The annual top front end tools of 2022.
+  - name: Addy Codes
+    url: https://toolkit.addy.codes/
+    about: Beautifully designed list of resources (682!!) in different categories.
+  - name: Suhail Kakar post on dev.to
+    url: https://dev.to/suhailkakar/best-design-resources-for-developers-4f
+    about: Huge list from Suhail Kakar on dev.to
+  - name: wweb.dev
+    url: https://wweb.dev/resources/best-of-weekly-2022/
+    about: wWeb.dev produces a list of new resources each month and has other ways to find.
+  - name: resource.fyi
+    url: https://resource.fyi/
+    about: Whole web site of resrouces in different categories.
+  - name: Design Junction
+    url: https://designjunction.xyz/
+    about: Site of design resources.
+  - name: All online tools in one box
+    url: https://10015.io/
+    about: A big list of dev resources.
+  - name: Product Hunt
+    url: https://www.producthunt.com/
+    about: A huge list of digital products.
+  - name: CSS Tricks hottest front end tools in 2021
+    url: https://css-tricks.com/hottest-front-end-tools-in-2021/
+    about: A list of their best 60.
+  - name: CCCreate
+    url: https://cccreate.co/
+    about: A nice visual collection of generators and tools.
+  - name: There’s an AI for that
+    url: https://theresanaiforthat.com/
+    about: Huge and growing list of AI sites, in different categories.
+  - name: Daily Dev
+    url: https://app.daily.dev/
+    about: Cool site where you can customize your feed for all the latest topics that interest you.
+  - name: Openbase
+    url: https://openbase.com/
+    about: Good way to checkout various libaries for JS and other programming libaries.
+  - name: Frontend Focus
+    url: https://frontendfoc.us/
+    about: Weekly newsletter of all things frontend. Subscribe by email or browse the archives.
+  - name: Free for Developers
+    url: https://free-for.dev/
+    about: Big collection of dev tools and services, all FREE!!
+
+- section:
+  title: Miscellaneous resources
+  list: 
+  - name: Free Logo Design
+    url: https://www.freelogodesign.org/
+    about: Quickly create logos and then customize them.
+  - name: Headlime
+    url: https://headlime.com/
+    about: Headlime uses AI to create copy and limited design for websites.
+  - name: Vivus
+    url: https://maxwellito.github.io/vivus/
+    about: Small JS class for drawing out SVG's.
+  - name: Smarty Names
+    url: https://smartynames.com/
+    about: AI for generating and finding available URL's for new websites.
+  - name: Capture Screenshots online
+    url: https://instant.tools/url-to-screenshot
+    about: Tool for snapping screenshots.
+  - name: AI Background remover
+    url: https://baseline.is/tools/background-remover/
+    about: Free and also a CSS Tricks recommendation.
+  - name: Component Gallery
+    url: https://component.gallery/
+    about: Code for compontens like blockquotes, includes examples, CSS and HTML, and best practices.
+  - name: emGithub
+    url: https://emgithub.com/
+    about: Cool resource for embedding Github projects in web pages.
+  - name: Pollan
+    url: https://www.pollen.style/
+    about: System of design tokens using CSS variables to build any project.
+  - name: Page Res screenshot generator
+    url: https://github.com/sindresorhus/pageres-cli
+    about: A quick and easy to use CLI tool to get screenshots from a url in various resolutions. Powerful. Node JS.
+  - name: Text cleaner
+    url: https://textcleaner.net/
+    about: “The main purpose of this utility is to unformat a formatted text and remove all unmeaningful characters which are often present in texts that were copied directly from word processors, web pages, PDFs, client briefs, and e-mails.”
+  - name: HTML Shell
+    url: https://www.toptal.com/developers/htmlshell
+    about: Quickly customize and generate HTML code for a page.
+
+- section:
+  title: Icon libraries
+  list:
+  - name: Icon Duck
+    url: https://iconduck.com/
+    about: No sign up, open source icons, featured on https://css-tricks.com/hottest-front-end-tools-in-2021/
+  - name: Snoweb SVG Icons
+    url: https://www.snoweb-svg.com/
+    about: Optimized icons, with animated options, also featured on https://css-tricks.com/hottest-front-end-tools-in-2021/
+  - name: Mingcute icons
+    url: https://www.mingcute.com/
+    about: Super easy to find, copy and customize icons in SVG or PNG. Copy SVG code with one click or add to a collection and download.
+
+- section:
+  title: UI libraries
+  list:
+  - name: Beer CSS
+    url: https://www.beercss.com/
+    about: A simple way to explore and use Material design.
+  - name: UIVERSE
+    url: https://www.cssui.dev
+    about: The uiverse is a library of buttons, checkboxes, toggle switches, cards, loaders and input. The effects are better than average and yoou can customize on screen before grabbing the code. Excellent resourse.
+  - name: CSSUI
+    url: https://www.cssui.dev
+    about: Another library, this is pure CSS, to quickly build complicated components like sliders, dropdowns, accordians etc..
+  - name: Copy Paste CSS
+    url: https://copy-paste-css.com/
+    about: Quickly copy CSS for buttons, box shadows, form inputs, colour palettes and emoji.
+  - name: UI Buttons
+    url: https://ui-buttons.web.app/
+    about: Amazing collection of button effects, easy to copy and use.
+
+- section:
+  title: Type
+  list:
+  - name: Bunny Type
+    url: https://fonts.bunny.net/
+    about: Alternative, privacy focused and free alternative to Google fonts.
+  - name: Cool Labs Fonts
+    url: https://fonts.coollabs.io/
+    about: Privacy focused alternative to Google fonts. Use google fonts then just change part of the url..
+  - name: Evil Martians monospace font
+    url: https://github.com/evilmartians/mono
+    about: Cool free monospace font recommended by Smashing.
+  - name: Font Squirrel
+    url: https://www.fontsquirrel.com/tools/webfont-generator
+    about: Aside from a huge range of fonts you can convert any font file into woff and woff2 formats.
+
+- section: 
+  title: Imagery
+  list:
+  - name: Picsum photos
+    url: https://picsum.photos/
+    about: Quickly add an image using https://picsum.photo/id/134/400/230
+  - name: unsplash
+    url: https://unsplash.com/
+    about: Huge range of free imagery.
+  - name: Videvo
+    url: https://www.videvo.net/
+    about: Source of free video clips.
+  - name: Lorem Faces
+    url: https://loremfaces.com/
+    about: Free AI generated faces for use in projects. Free, totally real looking.
+  - name: Avamake avatars
+    url: https://avamake.com/
+    about: Nice way to make avatars with a wide range of presets.
+
+- section: 
+  title: Colour tools
+  list:
+  - name: Colorleap
+    url: https://colorleap.app/
+    about: Generate colour palettes based on time period.
+  - name: Couleur.io
+    url: https://couleur.io/
+    about: Great way to build colour schemes quickly in both dark and light modes.
+  - name: Color Gradient Generator
+    url: https://mybrandnewlogo.com/color-gradient-generator
+    about: Choose a gradient and customize in numerous ways. Uses gradient algorithms to create good-looking and well-balanced gradients. Simple but good.
+  - name: Cool Backgrounds
+    url: https://coolbackgrounds.io/
+    about: A range of different background inc. animations.
+  - name: Coolors
+    url: https://coolors.co/
+    about: One of the best ways to generate a colour palette.
+  - name: Gradicol gradients
+    url: https://gradicol.vercel.app/
+    about: Curated gradient collection.
+  - name: Huemint
+    url: https://huemint.com/
+    about: Choose a colour or two and let the app generate more until you get something you like. Great way to visualise palettes.
+  - name: Josh Comeau’s Gradient Generator
+    url: https://mybrandnewlogo.com/color-gradient-generator
+    about: Simulates various colour modes like HSV, HCL, LAB and more for consistently bright gradients.
+  - name: Mesh-Y gradients
+    url: https://meshgradient.in/
+    about: Create mesh gradients as PNG’s and download.
+  - name: My Color Space
+    url: https://mycolor.space/
+    about: Creates a range of nice colour palettes from a single colour.
+  - name: Reasonable colors
+    url: https://reasonable.work/colors/
+    about: CSS file of preset colours and showing various combinations like complementary, analagous etc..
+  - name: shapefactory.co.
+    url: https://shapefactory.co/
+    about: Colour pairing (pigment.shapefactory.co), gradient picker, duotone browser, plus a logo creator.
+  - name: Gradihunt
+    url: https://gradihunt.com/
+    about: Fantastic gradient generator.
+  - name: Codioful
+    url: https://codioful.com/editor/
+    about: Great advanced gradient generator allowing multiple gradients, blend modes, size, position and full screen view.
+  - name: Webgradients.com
+    url: https://webgradients.com/
+    about: 180 curated gradients you can view full screen view and copy the CSS with one click.
+  - name: Wicked Backgrounds
+    url: https://wickedbackgrounds.com/
+    about: Create curvy customized SVGs.
+
+
+- section:
+  title: Other CSS generators
+  list:
+  - name: CSS Shapes
+    url: https://getcssscan.com/css-shapes
+    about: Quickly browse and copy the CSS for a range of different shapes.
+  - name: Fffuel.co generators
+    url: https://fffuel.co/
+    about: Excellent collection of SVG image generators, colour palettes.
+  - name: CSS Generators
+    url: https://css-generators.com/
+    about: Generate CSS for borders, section dividers, starburst shapes, corners, polygons and wavy shapes. Also some great patterns.
+  - name: CSS Section Separator Generator
+    url: https://wweb.dev/resources/css-separator-generator/
+    about: Simple generator for creating a range of CSS based shapes from wweb.dev.
+  - name: Plasma Background Generator
+    url: https://fracergu.github.io/css-plasma-background-generator/
+    about: Animated 3 gradients together.
+  - name: SVGWave.in
+    url: https://svgwave.in/
+    about: Nice generator for multi-layer gradient waves, export as SVG or PNG
+
+- section:
+  title: CSS animation
+  list:
+  - name: AnimatiSS
+    url: https://xsgames.co/animatiss/
+    about: Quickly browse and copy the CSS for a range of different animations. Unlike animate.css you don't have download the whole set, only the animations you use.
+  - name: Transition CSS
+    url: https://www.transition.style/
+    about: Another CSS transition library with cool page transitions. Very easy to set up. Link to the external file then add an attribute to the HTML element you wish to animate. A bookmarklet even allows setting animations on external sites.
+  - name: Finisher header animations
+    url: https://www.finisher.co/lab/header/
+    about: Tool to quickly create header animations using a small js library. You can also slant the header as needed.
+  - name: Animated CSS background generator
+    url: https://wweb.dev/resources/animated-css-background-generator/
+    about: Another generator from wweb.dev
+  - name: Nice Waves
+    url: https://gvguy.github.io/nice-waves/
+    about: Generates highly customizable wave animations using JS and SVG.
+  - name: CSS3 Animation Cheatsheet
+    url: http://www.justinaguilar.com/animations/index.html
+    about: Nice little selection of animations along with some simple instructions to set scroll trigger with JQuery.
+  - name: AnimXYZ
+    url: https://animxyz.com/
+    about: Utility class based animations with CSS variables. "The Tailwind CSS for animations".
+  - name: CubicBezier.com
+    url: https://cubic-bezier.com/
+    about: One of the better cubic bezier tools I've found.
+  - name: Cubic Bezier Generator
+    url: https://matthewlein.com/tools/ceaser
+    about: Interactive app for generating bezier curves for CSS transitions. Other https://www.cssportal.com/css-generators.php and resources here.
+  - name: Animatize.com
+    url: https://animatize.com/
+    about: Great way to create animations by dragging your mouse accross the screen.
+  - name: Scroll Btween
+    url: https://olivier3lanc.github.io/Scroll-Btween/
+    about: JS library to animate objects on scrolling.
+
+- section: 
+  title: learn
+  list:
+  - name: What is the Hero section?
+    url: https://www.awebco.com/blog/hero-section/
+    about: Good description of hero sections.
+  - name: Hero Notes
+    url: /blog/hero-notes/
+    about: Synopsis of notes in the blog section of this site.
+  - name: Hero Notes
+    url: /blog/hero-notes/
+    about: Synopsis of notes in the blog section of this site.
+  - name: How to craft appealing websites
+    url: https://wweb.dev/blog/how-to-craft-appealing-websites/
+    about: Good article on the process of making a website from start to finish by wweb.dev
+  - name: Guide to landing pages that convert
+    url: https://www.indiehackers.com/post/my-step-by-step-guide-to-landing-pages-that-convert-9daefb2064
+    about: Detailed step by step guide to creating landing pages from [Indiehackers](https://www.indiehackers.com).
+  - name: How to write a landing page title
+    url: https://www.indiehackers.com/post/how-to-write-a-landing-page-title-cf50f7b9ad
+    about: Another good post by [Indiehackers](https://www.indiehackers.com).
+  - name: Millo
+    url: https://millo.co/
+    about: Good resource for everything freelancing.
+  - name: Visual design rules
+    url: https://anthonyhobday.com/sideprojects/saferules/
+    about: List of design rules said to be safe to always use.
+
+- section:
+  title: Website examples
+  list:
+  - name: THe Body Coach
+    url: https://www.thebodycoach.com/
+    about: Great use of line and video. A beautiful site.
+
+- section:
+  title: Marketing
+  list:
+  - name: Lemlist blog
+    url: https://blog.lemlist.com/
+    about: List of blog posts on marketing for small businesses
+  - name: Find that Lead
+    url: https://findthatlead.com/
+    about: More marketing for small businesses
+  - name: Marketing examples
+    url: https://marketingexamples.com/
+    about: Snippets of marketing lore.
+  - name: Milo
+    url: https://marketingexamples.com/
+    about: Snippets of marketing lore.
+
+- section:
+  title: Templates & themes
+  list:
+  - name: Jamstack Themes
+    url: https://jamstackthemes.dev/ssg/hugo/
+    about: Curated list of 108 themes.
+  - name: Hugo Themes Free
+    url: https://hugothemesfree.com/
+    about: Not all free themes and strong overlap with the official themes page.
+  - name: Get Hugo Themes
+    url: https://gethugothemes.com/shop
+    about: Not all free themes and strong overlap with the official themes page.
+  - name: HTML 5 Up
+    url: https://html5up.net/
+    about: Not Hugo themes but beautiful, free, and in HTML and CSS and can be ported.
+  - name: Pixelarity
+    url: https://pixelarity.com/
+    about: Not free or Hugo but access to all themes for $19.
+  - name: Hugo templates
+    url: https://hugo-templates.netlify.app/
+    about: A curated list of free themes nicely laid out and easy to view.
+  - name: One Page Love
+    url: https://onepagelove.com/templates/free-templates
+    about: All 98 free themes in one place and easy to view.
+  - name: HTML Rev
+    url: https://htmlrev.com/
+    about: Very nice selection of free Landing page templates.
+  - name: Uisual
+    url: https://uisual.com/
+    about: 8 landing page templates complete with code
+
+- section:
+  title: JS Libraries
+  list:
+  - name: Lax JS
+    url: https://github.com/alexfoxy/lax.js
+    about: Small library (4kb) for scroll animations
+  - name: Alpine JS
+    url: https://alpinejs.dev/
+    about: Smaller multi-use library making JS coding easier.
+  - name: Hono JS
+    url: https://hono.dev/getting-started/basic
+    about: Lightweight backend that runs on Node, Deno, Bun and even Cloudflare Workers.
+  - name: Mithril
+    url: https://mithril.js.org/
+    about: Small library for creating SPA's.
+  - name: Baguette Box
+    url: #
+    about: Vanilla JS slide show.
+  - name: Map Libre
+    url: https://maplibre.org/
+    about: An alternative map library.
+  - name: Turbo
+    url: https://turbo.hotwired.dev/
+    about: A small library to speed up page loads that's simpler than SPA alternatives..
+  - name: Atomico
+    url: https://atomicojs.dev/
+    about: A small, React like library for user interace design. Uses the virtual DOM, props and hooks.
+  - name: Lyra Search
+    url: https://docs.lyrasearch.io/
+    about: Search that works anywhere but particularly the Edge.
+  - name: Hibiki HTML
+    url: https://www.hibikihtml.com/
+    about: An easy-to-use web framework for creating modern front-end applications. There is no JavaScript stack to set up, no boilerplate/scaffolding, no build tools to download and run, and no need to be a JavaScript expert. 
+  - name: Vanta JS
+    url: https://www.vantajs.com/
+    about: Very cool and customizable animated backgrounds.
+  - name: Reef JS
+    url: https://reefjs.com/
+    about: Tiny, 2.5kb library for managing state (Reactivity).
+  - name: HTMX
+    url: https://htmx.org/
+    about: 'A 14kb library to help with backend integration such as form submissions: "htmx gives you access to AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext"'
+
+- section:
+  title: Design
+  list:
+  - name: Landing page tips
+    url: https://tips.onepagelove.com/secret/
+    about: 100 tips for landing pages at One Page Love
+  - name: Visual Design rules
+    url: https://anthonyhobday.com/sideprojects/saferules/
+    about: Great list of rules for web design

@@ -1,0 +1,15 @@
+# Sites using these lists could include...
+
+- name: CSS Revolution
+  url: https://cssrevolution.netlify.app/heroes/
+- name: CSS Geek
+  url: https://cssgeek.netlify.app/
+  note: not yet using
+- name: X8
+  note: local site only
+- name: Faunacate
+  url: https://faunacate.vercel.app/images-and-assets/my-sites/
+  note: not yet using
+- name: Test Site Zero
+  url: https://testsitezero.netlify.app/blog/my-sites/
+  note: Needs integrating with the list.
